@@ -1,9 +1,6 @@
-# WebApp
+# Hybrid App
+## there are so many hybrid web frameworks to use:
 ```
-since there are so many web front frameworks that can make so much cool effects(like Metro-win8),   
-we can just use them to make apps like native andriod/ios,
-h5+css+js + frameworks + webview = cool app. 
+Framework7, ionic, ... ,cordova/phonegap
 ```
-```
-move web to andriod/ios, see what an app we can create...
-```
+# maybe Hybrid App can really do better than Native App...
